@@ -5,7 +5,7 @@ library(Seurat)
 setwd("~/OneDrive - University of Florida/Schnitzler_Lab/Jingwei/Whitney/Manuscript/10X_/i-cell_subclustering/DE")
 load("/Users/jsong/OneDrive - University of Florida/Schnitzler_Lab/Jingwei/Whitney/Manuscript/10X_/i-cell_subclustering/ISC_subcluter_Seurat_V6_tnse.RData")
 
- DefaultAssay(seurat_integrated) <- "integrated"
+ DefaultAssay(seurat_integrated) <- "RNA"
 # DE 
 de.markers <- FindAllMarkers(seurat_t, only.pos = T, 
                              min.pct = 0.5, logfc.threshold = 1, test.use = "bimod") 
