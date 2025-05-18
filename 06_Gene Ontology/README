@@ -1,1 +1,2 @@
-topGO
+# GO enrichment test for each UMAP cluster, using DE genes for each cluster as "genes of interest"
+# gene ID's are in the subfolder. The R code runs GO test for all clusters in a loop
