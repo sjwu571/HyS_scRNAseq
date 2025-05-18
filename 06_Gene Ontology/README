@@ -1,2 +1,4 @@
 # GO enrichment test for each UMAP cluster, using DE genes for each cluster as "genes of interest"
 # gene ID's are in the subfolder. The R code runs GO test for all clusters in a loop
+
+# Hsym_v1.0_GO_terms.out is too large for github, can be downloaded from https://zenodo.org/uploads/15151309?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQ2MjJjODU4LTcyZTktNGQ0OS1iMDliLTExY2ViNmRlZmRjYyIsImRhdGEiOnt9LCJyYW5kb20iOiIzZTNlOWU2MTgxOGY1OGZhZWI0NzJjNTIzNWFiZTAzMCJ9.ieSOIgUSKsrZtVBD9YmdOCF0bKZQ9RirF3lHeMn8dp80p-ta4AJUo8Q5eDumjz_ijyb48EJCeg_uYASl6ovJBw
