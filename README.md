@@ -1,5 +1,7 @@
 # **An updated and spatially validated somatic single-cell atlas of *Hydractinia symbiolongicarpus***
 
-Scripts and processed data used in analyzing somatic single cell RNA sequencing of Hydractinia symbiolongicarpus gastrozooids. 
+This repository the code and analyses of used in analyzing somatic single-cell RNA-sequencing data of *Hydractinia symbiolongicarpus*. 
 
-DOI: Pending
+This work has a bioRxiv preprint: https://doi.org/10.1101/2025.06.03.657738
+
+Currently under review.... stay tuned!
