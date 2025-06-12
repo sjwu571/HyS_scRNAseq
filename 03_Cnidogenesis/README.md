@@ -1,2 +1,3 @@
-# For recreating Fig cnidogenesis analyses (Pseudotime, CytoTrace)
+# For recreating Figure 2a, 2b (Pseudotime, CytoTrace, Heatmap)
+
 Input file: integrated_subset.Rdata can be downloaded from [here](https://zenodo.org/uploads/15151309?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQ2MjJjODU4LTcyZTktNGQ0OS1iMDliLTExY2ViNmRlZmRjYyIsImRhdGEiOnt9LCJyYW5kb20iOiIzZTNlOWU2MTgxOGY1OGZhZWI0NzJjNTIzNWFiZTAzMCJ9.ieSOIgUSKsrZtVBD9YmdOCF0bKZQ9RirF3lHeMn8dp80p-ta4AJUo8Q5eDumjz_ijyb48EJCeg_uYASl6ovJBw)
