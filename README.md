@@ -1,4 +1,6 @@
-# **An updated and spatially validated somatic single-cell atlas of *Hydractinia symbiolongicarpus*** (in review)
+# **An updated and spatially validated somatic single-cell atlas of *Hydractinia symbiolongicarpus***
+
+The paper has been published on BMC Genomics [here](https://rdcu.be/eUd1G)
 
 This repository contains the code used in analyzing somatic single-cell RNA-sequencing data of *Hydractinia symbiolongicarpus*. 
 
